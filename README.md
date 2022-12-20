@@ -12,6 +12,6 @@
 ### 解法說明
 先從一個初始的分班方法，計算當前分班方式的滿意度，每一回合找出對滿意度貢獻最少的學生轉班，若轉班後的滿意度比轉班前的滿意度，代表抵達local optimum。根據該分班作調整，試著跳脫該local optimum，以抵達global optimum。
 - [詳細報告](solution.pdf)
-- [code](solve.py)
-- [輸出班級答案](101_sol_class.txt)
-- [輸出E值答案](101_sol_E.txt)
+  - [code](solve.py)
+  - [輸出班級答案](101_sol_class.txt)
+  - [輸出E值答案](101_sol_E.txt)
